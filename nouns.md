@@ -7,7 +7,7 @@
 Two parts Hydrogen, one part Oxygen.
 Londonese term for the English word, "Water"
 
-"Blimey mate pass me the Wooh-Err"
+_"Blimey mate pass me the Wooh-Err"_
 
 
 
@@ -16,8 +16,8 @@ Londonese term for the English word, "Water"
 Essentially angel tears. Given to us by God himself
 as a reward for being Londoners.
 
-"I'm Bri-ish 'cause the schewpid Americans frew the
-fokin' tea in the ocean"
+_"I'm Bri-ish 'cause the schewpid Americans frew the
+fokin' tea in the ocean"_
 
 
 
@@ -34,7 +34,7 @@ used in this damn dictionary.
 Where young, inexperienced Londoners go to die. 
 Londonese term for the English word, “Pub”.
 
-“Wanna go to the poob have a pint get right pissed and have a good route?”
+_“Wanna go to the poob have a pint get right pissed and have a good route?”_
 
 
 
@@ -44,4 +44,4 @@ The prime vehicle choice for all Londoners.
 Fast, reliable and hella cheap.
 Londonese term for the “Vauxhall Corsa” 
 
-Example sentence: “Aight mate get in the corsa” 
+_“Aight mate get in the corsa” _
